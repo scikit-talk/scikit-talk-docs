@@ -2,7 +2,7 @@ Welcome to scikit-talk's documentation!
 ===================================
 
 **scikit-talk** is a Python library for natural language processing and conversational AI
-that helps you process and analyse real-world conversational speech data.
+that helps you process and analyze real-world conversational speech data.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
